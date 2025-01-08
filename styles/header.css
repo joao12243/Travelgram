@@ -11,6 +11,7 @@ header .container {
 }
 
 #profile {
+    
     display: flex;
     gap: 32px;
     
@@ -37,7 +38,6 @@ header .container {
 
 #info {
     list-style: none;
-
     display: flex;
     flex-direction: column;
     gap: 16px;
